@@ -1,0 +1,7 @@
+# gitignore for
+
+.DS_Store
+
+*.txt
+*.txt.chasen
+*.csv
